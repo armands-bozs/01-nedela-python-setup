@@ -1,0 +1,5 @@
+print ('Hello from VS Code')
+print ('Ko lai tagad dara ?')
+print ('vajadzetu vel kadu tekstus iemeist')
+print ('lai notestetu ')
+print ('ka bus ja ievadis vairakus print viena hello world')
